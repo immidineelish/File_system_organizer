@@ -1,5 +1,5 @@
 function organizeFn() {
-    console.log("organizing the folder");
+    console.log("organizings the folders");
 }
 
 
