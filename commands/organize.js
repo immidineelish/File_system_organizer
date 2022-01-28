@@ -1,8 +1,7 @@
 function organizeFn() {
-    console.log("organizings the folders");
+    console.log("Organizing your folder");
 }
 
-
 module.exports = {
-        organize: organizeFn
+    organize: organizeFn
 }
